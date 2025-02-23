@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="93aa20b3-069f-4b0a-bbca-14ff466349ea" name="Changes" comment="Initial Commit">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlaskProject/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlaskProject/.idea/FlaskProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlaskProject/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlaskProject/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlaskProject/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlaskProject/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlaskProject/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlaskProject/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/backend/config/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/backend/config/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/backend/config/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/backend/config/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/backend/config/views/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/backend/config/views/auth.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/backend/config/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/backend/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/backend/notes/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/backend/notes/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/backend/notes/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/backend/notes/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/backend/notes/migrations/0002_auto_20180705_0142.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/backend/notes/migrations/0003_auto_20180705_0255.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/backend/notes/migrations/0004_note_image.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/backend/notes/migrations/0005_auto_20180711_0748.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/backend/notes/migrations/0006_auto_20180711_2334.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/backend/notes/migrations/0007_notestimeline.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/backend/notes/migrations/0008_note_public.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/backend/notes/migrations/0009_notestimeline_note.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/backend/notes/migrations/0010_auto_20180719_0311.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/backend/notes/migrations/0011_note_tags.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/backend/notes/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/backend/notes/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/backend/notes/pagination.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/backend/notes/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/backend/notes/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/backend/notes/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/backend/populate/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/backend/populate/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/backend/populate/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/backend/populate/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/backend/populate/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/backend/populate/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/backend/populate/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/backend/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/backend/tags/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/backend/tags/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/backend/tags/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/backend/tags/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/backend/tags/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/backend/tags/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/backend/tags/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/backend/tags/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/backend/tags/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/.eslintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/.nvmrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/.prettierignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/.prettierrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/.stylelintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/.nginx.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/components/Header/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/components/Header/messages.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/components/Header/tests/index.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/components/LoginForm/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/components/LoginForm/messages.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/components/LoginForm/tests/index.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/components/NoteForm/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/components/NoteForm/messages.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/components/NoteForm/tests/index.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/components/NotesView/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/components/NotesView/messages.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/components/NotesView/tests/index.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/components/PaginatedTimelineView/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/components/PaginatedTimelineView/messages.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/components/PaginatedTimelineView/tests/index.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/components/PrivateNotesView/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/components/PrivateNotesView/messages.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/components/PrivateNotesView/tests/index.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/components/RegisterForm/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/components/RegisterForm/messages.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/components/RegisterForm/tests/index.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/components/SingleNote/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/components/SingleNote/messages.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/components/SingleNote/tests/index.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/components/TagsInput/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/components/TagsSelector/Loadable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/components/TagsSelector/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/components/TagsSelector/messages.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/components/TagsSelector/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/components/TagsSelector/tests/index.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/components/TagsWidget/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/components/TagsWidget/messages.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/components/TagsWidget/tests/index.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/components/TextInput/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/components/VoteForm/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/components/VoteForm/tests/index.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/configureStore.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/App/constants.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/App/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/App/selectors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/App/tests/index.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/App/tests/selectors.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/AuthProvider/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/AuthProvider/selectors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/LanguageProvider/actions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/LanguageProvider/constants.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/LanguageProvider/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/LanguageProvider/reducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/LanguageProvider/selectors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/LanguageProvider/tests/actions.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/LanguageProvider/tests/index.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/LanguageProvider/tests/reducer.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/LanguageProvider/tests/selectors.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/LoginPage/constants.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/LoginPage/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/LoginPage/messages.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/LoginPage/reducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/LoginPage/saga.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/LoginPage/selectors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/LoginPage/tests/actions.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/LoginPage/tests/index.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/LoginPage/tests/reducer.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/LoginPage/tests/saga.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/LoginPage/tests/selectors.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/LogoutPage/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/LogoutPage/tests/index.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/NotFoundPage/Loadable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/NotFoundPage/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/NotFoundPage/messages.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/NotFoundPage/tests/index.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/NoteVoteWidget/Loadable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/NoteVoteWidget/actions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/NoteVoteWidget/constants.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/NoteVoteWidget/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/NoteVoteWidget/reducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/NoteVoteWidget/saga.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/NoteVoteWidget/selectors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/NoteVoteWidget/tests/actions.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/NoteVoteWidget/tests/index.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/NoteVoteWidget/tests/reducer.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/NoteVoteWidget/tests/saga.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/NoteVoteWidget/tests/selectors.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/NotesPage/Loadable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/NotesPage/constants.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/NotesPage/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/NotesPage/messages.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/NotesPage/reducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/NotesPage/saga.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/NotesPage/selectors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/NotesPage/tests/actions.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/NotesPage/tests/index.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/NotesPage/tests/reducer.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/NotesPage/tests/saga.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/NotesPage/tests/selectors.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/PopularTags/Loadable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/PopularTags/actions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/PopularTags/constants.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/PopularTags/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/PopularTags/messages.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/PopularTags/reducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/PopularTags/saga.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/PopularTags/selectors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/PopularTags/tests/actions.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/PopularTags/tests/index.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/PopularTags/tests/reducer.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/PopularTags/tests/saga.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/PopularTags/tests/selectors.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/RegisterPage/constants.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/RegisterPage/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/RegisterPage/messages.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/RegisterPage/reducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/RegisterPage/saga.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/RegisterPage/selectors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/RegisterPage/tests/actions.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/RegisterPage/tests/index.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/RegisterPage/tests/reducer.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/RegisterPage/tests/saga.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/RegisterPage/tests/selectors.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/TagTimeline/Loadable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/TagTimeline/actions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/TagTimeline/constants.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/TagTimeline/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/TagTimeline/messages.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/TagTimeline/reducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/TagTimeline/saga.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/TagTimeline/selectors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/TagTimeline/tests/actions.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/TagTimeline/tests/index.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/TagTimeline/tests/reducer.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/TagTimeline/tests/saga.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/TagTimeline/tests/selectors.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/Timeline/Loadable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/Timeline/actions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/Timeline/constants.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/Timeline/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/Timeline/messages.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/Timeline/reducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/Timeline/saga.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/Timeline/selectors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/Timeline/tests/actions.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/Timeline/tests/index.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/Timeline/tests/reducer.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/Timeline/tests/saga.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/containers/Timeline/tests/selectors.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/global-styles.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/i18n.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/images/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/images/icon-512x512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/localStrorage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/reducers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/tests/i18n.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/tests/reducers.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/tests/store.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/translations/en.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/utils/apiHandlers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/utils/checkStore.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/utils/constants.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/utils/injectReducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/utils/injectSaga.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/utils/middlewares.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/utils/reducerInjectors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/utils/sagaInjectors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/utils/tests/checkStore.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/utils/tests/injectReducer.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/utils/tests/injectSaga.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/utils/tests/reducerInjectors.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/app/utils/tests/sagaInjectors.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/appveyor.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/docs/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/docs/css/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/docs/css/linting.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/docs/css/remove.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/docs/css/sanitize.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/docs/general/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/docs/general/commands.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/docs/general/components.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/docs/general/debugging.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/docs/general/deployment.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/docs/general/editor.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/docs/general/faq.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/docs/general/files.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/docs/general/gotchas.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/docs/general/introduction.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/docs/general/remove.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/docs/general/server-configs.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/docs/general/webstorm-debug.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/docs/general/webstorm-eslint.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/docs/general/workflow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/docs/js/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/docs/js/async-components.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/docs/js/i18n.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/docs/js/immutablejs.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/docs/js/redux-saga.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/docs/js/redux.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/docs/js/remove.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/docs/js/reselect.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/docs/js/routing.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/docs/maintenance/dependency.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/docs/testing/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/docs/testing/component-testing.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/docs/testing/remote-testing.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/docs/testing/unit-testing.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/internals/config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/internals/generators/component/class.js.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/internals/generators/component/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/internals/generators/component/loadable.js.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/internals/generators/component/messages.js.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/internals/generators/component/stateless.js.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/internals/generators/component/test.js.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/internals/generators/container/actions.js.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/internals/generators/container/actions.test.js.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/internals/generators/container/class.js.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/internals/generators/container/constants.js.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/internals/generators/container/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/internals/generators/container/index.js.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/internals/generators/container/messages.js.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/internals/generators/container/reducer.js.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/internals/generators/container/reducer.test.js.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/internals/generators/container/saga.js.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/internals/generators/container/saga.test.js.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/internals/generators/container/selectors.js.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/internals/generators/container/selectors.test.js.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/internals/generators/container/stateless.js.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/internals/generators/container/test.js.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/internals/generators/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/internals/generators/language/add-locale-data.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/internals/generators/language/app-locale.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/internals/generators/language/format-translation-messages.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/internals/generators/language/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/internals/generators/language/intl-locale-data.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/internals/generators/language/polyfill-intl-locale.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/internals/generators/language/translation-messages.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/internals/generators/language/translations-json.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/internals/generators/utils/componentExists.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/internals/mocks/cssModule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/internals/mocks/image.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/internals/scripts/analyze.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/internals/scripts/clean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/internals/scripts/dependencies.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/internals/scripts/extract-intl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/internals/scripts/generate-templates-for-linting.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/internals/scripts/helpers/checkmark.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/internals/scripts/helpers/progress.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/internals/scripts/helpers/xmark.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/internals/scripts/npmcheckversion.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/internals/testing/enzyme-setup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/internals/testing/test-bundler.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/internals/webpack/webpack.base.babel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/internals/webpack/webpack.dev.babel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/internals/webpack/webpack.dll.babel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/internals/webpack/webpack.prod.babel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/server/argv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/server/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/server/logger.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/server/middlewares/addDevMiddlewares.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/server/middlewares/addProdMiddlewares.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/server/middlewares/frontendMiddleware.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/server/port.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/frontend/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django-react-example-master/django-react-example-master/notes.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;sahilcmd3&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/sahilcmd3/Collaboration_Web.git&quot;,
+    &quot;accountId&quot;: &quot;6c6bba72-813c-4d5a-9340-8fc2012d9fad&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2t2OMsaGyiiestonEKf2FYGM9vs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortKey" value="BY_TIME_ASCENDING" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Django Server.Collaboration_Web.executor": "Run",
+    "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "full.screen.before.presentation.mode": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/Downloads/Collaboration_Web",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "CodeWithMe",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Collaboration_Web" type="Python.DjangoServer" factoryName="Django server">
+      <module name="Collaboration_Web" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="Collaboration_Web.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-76f8388c3a79-JavaScript-PY-243.24978.54" />
+        <option value="bundled-python-sdk-91e3b7efe1d4-466328ff949b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.24978.54" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93aa20b3-069f-4b0a-bbca-14ff466349ea" name="Changes" comment="" />
+      <created>1739546657792</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739546657792</updated>
+      <workItem from="1739546658803" duration="5320000" />
+      <workItem from="1739562861362" duration="194000" />
+      <workItem from="1739564144086" duration="120000" />
+      <workItem from="1739571265423" duration="2369000" />
+      <workItem from="1739607469670" duration="322000" />
+      <workItem from="1739627388452" duration="495000" />
+      <workItem from="1739640046893" duration="1037000" />
+      <workItem from="1739657125720" duration="179000" />
+      <workItem from="1740064292860" duration="270000" />
+      <workItem from="1740147295113" duration="38000" />
+      <workItem from="1740264739611" duration="351000" />
+      <workItem from="1740317706146" duration="1993000" />
+      <workItem from="1740326516671" duration="63000" />
+      <workItem from="1740334124637" duration="34000" />
+      <workItem from="1740334160703" duration="53000" />
+      <workItem from="1740334376853" duration="618000" />
+      <workItem from="1740335009631" duration="22000" />
+      <workItem from="1740335037845" duration="20000" />
+      <workItem from="1740335073977" duration="1078000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1739571966142</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1739571966142</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Merge branch 'master' of https://github.com/sahilcmd3/Collaboration_Web" />
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+  </component>
+</project>
